@@ -1,0 +1,8 @@
+/* code blocks */
+code, pre {
+    font-family: 'DejaVu Sans Mono','Droid Sans Mono',Monaco,Menlo,Consolas,'Courier New',monospace;
+}
+/* site title */
+.site-name {
+    font-family: 'DejaVu Sans Mono', 'Droid Sans Mono', 'Monaco', 'Inconsolata', 'Andale Mono', 'Lucida Console', 'Bitstream Vera Sans Mono', 'Courier New', Courier, Monospace;
+}
